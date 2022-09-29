@@ -1,0 +1,9 @@
+public enum ServerState {
+    CLIENT_USERNAME,
+    CLIENT_KEY_ID,
+    CLIENT_CONFIRMATION,
+    CLIENT_MESSAGE,
+    CLIENT_CHARGING,
+    CLIENT_OK,
+    CLIENT_LOGOUT,
+}
